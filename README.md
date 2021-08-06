@@ -5,8 +5,12 @@ I have been into tiling window manager and the other customisation stuff for pas
 
 * i3
 * i3 gaps
-* bumblebee-status
-* rofi 
-* nvim (hyperextensible Vim-based text editor)
+* [bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status)
+* [rofi](https://github.com/davatorium/rofi)
+* Neovim (hyperextensible Vim-based text editor)
 * bash
-* starship shell prompt
+* [starship shell prompt](https://github.com/starship/starship)
+
+
+
+
