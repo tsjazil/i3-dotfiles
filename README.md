@@ -10,6 +10,5 @@ I have been into tiling window manager and done other customisation for past 3 w
 * [bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status)(only themes added in my repo)
 * [rofi](https://github.com/davatorium/rofi)
 * [starship shell prompt](https://github.com/starship/starship)
-##### I am using Ubuntu 20.04 
 
 
