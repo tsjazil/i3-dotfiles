@@ -1,0 +1,37 @@
+#
+#
+#      _                 _     _                                         _   
+#  ___| |_ __ _ _ __ ___| |__ (_)_ __    _ __  _ __ ___  _ __ ___  _ __ | |_ 
+# / __| __/ _` | '__/ __| '_ \| | '_ \  | '_ \| '__/ _ \| '_ ` _ \| '_ \| __|
+# \__ \ || (_| | |  \__ \ | | | | |_) | | |_) | | | (_) | | | | | | |_) | |_ 
+# |___/\__\__,_|_|  |___/_| |_|_| .__/  | .__/|_|  \___/|_| |_| |_| .__/ \__|
+#                               |_|     |_|                       |_|    
+# Don't print a new line at the start of the prompt
+add_newline = false
+
+[line_break]
+disabled = true
+
+[character]
+success_symbol = "[💻](bold green) "
+#error_symbol = "[💥](bold red) "
+error_symbol = "[⚡](bold red) "
+
+[username]
+style_user = "green bold"
+style_root = "black bold"
+format = "❯ [$user ]($style)"
+disabled = false
+show_always = true
+
+
+#[hostname]
+#ssh_only = false
+#format =  "[@](white bold)[$hostname](white bold) "
+#trim_at = ".companyname.com"
+#disabled = false
+
+
+# Disable the package module, hiding it from the prompt completely
+[package]
+disabled = true
