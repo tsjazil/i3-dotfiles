@@ -1,7 +1,7 @@
 # Dotfiles
 I have been into tiling window manager and the done other customisation for past 3 weeks
 ### I used
-![Logo]("")
+![Logo]("https://raw.githubusercontent.com/tsjazil/dotfiles/master/screenshot.png")
 
 
 * i3
