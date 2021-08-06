@@ -5,7 +5,7 @@ I have been into tiling window manager and the other customisation stuff for pas
 
 * i3
 * i3 gaps
-* [bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status)
+* [bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status)(only themes added in my repo)
 * [rofi](https://github.com/davatorium/rofi)
 * Neovim (hyperextensible Vim-based text editor)
 * bash
