@@ -1,7 +1,7 @@
 # Dotfiles
 I have been into tiling window manager and the done other customisation for past 3 weeks
-###My Setup
-![my-setup]()
+### My Setup
+![my-setup](https://raw.githubusercontent.com/tsjazil/dotfiles/master/mysetup.png)
 ### I used
 * i3
 * i3 gaps
