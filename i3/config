@@ -20,7 +20,7 @@
 
 # i3 config file (v4)
 #
-exec_always feh --bg-fill /home/marhama/Downloads/wall-quran.jpg
+exec_always feh --bg-fill /home/marhama/Downloads/wall.jpg
 # /home/marhama/Pictures/Wallpapers/Palm-by-Jessica-F%20(copy).jpg
 # /home/marhama/Downloads/wallpaper.jpg
 #exec --no-startup-id "compton -b"
