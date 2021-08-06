@@ -1,7 +1,7 @@
 # Dotfiles
 I have been into tiling window manager and the done other customisation for past 3 weeks
 ### My setup
-![My setup](https://raw.githubusercontent.com/tsjazil/dotfiles/master/screenshot.png)
+![My setup](https://raw.githubusercontent.com/tsjazil/dotfiles/master/my-setup.png)
 
 ### I used
 * i3
