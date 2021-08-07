@@ -1,8 +1,8 @@
 # Dotfiles
 I have been into tiling window manager and done other customisation for past 3 weeks
-### My Setup
+<br></br>
 ![my-setup](https://raw.githubusercontent.com/tsjazil/dotfiles/master/mysetup.png)
-### I used
+### What's in it?
 * i3
 * i3 gaps
 * bash
