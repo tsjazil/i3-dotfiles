@@ -174,6 +174,7 @@ initializeANSI()
 
 # note in this first use that switching colors doesn't require a reset
 # first - the new color overrides the old one.
+# You can create a similiar one like what i did below using following building blocks
 # ****************************** Building blocks: █ ▓ ▒ ░ ▄ ▀ ▐ ▌ ●  ═ ║ ╔ ╦ ╗ ╚ ╩ ╝ ■ ▬ ▲ ▼ ◄ ► 
 
 initializeANSI
