@@ -120,9 +120,21 @@ alias l='ls -CF'
 alias e='exit'
 alias s='sudo apt'
 alias cl='clear'
-
-
-
+alias e='exit'
+alias s='sudo apt'
+alias cl='clear'
+alias i3conf='nvim .config/i3/config'
+alias stars='nvim .config/starship.toml'
+alias bashconf='nvim .bashrc'
+alias rofit='nvim .local/share/rofi/themes'
+alias roficonf='nvim .config/rofi/config.rasi'
+alias coding='cd Documents/coding'
+alias rn='ranger'
+alias rnconf='nvim .config/ranger'
+alias bumbconf='nvim .config/bumblebee-status'
+alias dots='cd Music/dotfiles'
+alias docs='cd Documents/'
+alias down='cd Downloads/'
 
 # enable programmable completion features (you don't need to enable
 # this, if it's already enabled in /etc/bash.bashrc and /etc/profile
