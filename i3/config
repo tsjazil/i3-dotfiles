@@ -390,7 +390,7 @@ colors {
 #status_command ~/.config/polybar/launch.sh
  # status_command i3blocks
 status_command ~/.config/bumblebee-status/bumblebee-status \
- -t black \
+ -t navy\
  -m  cpu  nic amixer date time  
 
         
