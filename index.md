@@ -1,6 +1,17 @@
-## Welcome to GitHub Pages
+## ⚡ Dotfiles
 
-You can use the [editor on GitHub](https://github.com/tsjazil/dotfiles/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![my-setup](https://raw.githubusercontent.com/tsjazil/dotfiles/master/gallery/navytheme.png)
+### What's in it?
+* [i3]("https://github.com/i3/i3")
+* [i3 gaps]("https://github.com/Airblader/i3")
+* bash
+* [ranger](https://github.com/ranger/ranger)
+* [Neovim](https://github.com/neovim/neovim)
+* [bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status)(only themes added in my repo)
+* [rofi](https://github.com/davatorium/rofi)
+* [starship shell prompt](https://github.com/starship/starship)
+
+<!-- You can use the [editor on GitHub](https://github.com/tsjazil/dotfiles/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -34,4 +45,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.-->
