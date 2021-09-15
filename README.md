@@ -12,4 +12,4 @@
 * [rofi](https://github.com/davatorium/rofi)
 * [starship shell prompt](https://github.com/starship/starship)
 
-Script used in i3 blocks is [Lukesmith's script](https://github.com/LukeSmithxyz/voidrice/tree/master/.local/bin/statusbar")
+Script used in i3 blocks is [Lukesmith's script](https://github.com/LukeSmithxyz/voidrice/tree/master/.local/bin/statusbar)
