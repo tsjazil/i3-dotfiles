@@ -1,0 +1,46 @@
+# For the benefit of emacs users: -*- shell-script -*-
+#
+#  _ _____ _     _            _
+# (_)___ /| |__ | | ___   ___| | _____
+# | | |_ \| '_ \| |/ _ \ / __| |/ / __|
+# | |___) | |_) | | (_) | (__|   <\__ \
+# |_|____/|_.__/|_|\___/ \___|_|\_\___/
+
+align=center
+separator=true
+separator_block_width=25
+markup=pango
+
+[nettraf]
+command=.config/i3blocks/i3-nettraf
+interval=1
+
+[homediskusage]
+command=bin/i3-home-disk
+interval=1
+
+
+[memory]
+command=.config/i3blocks/i3-disk
+interval=10
+[volume]
+command=.config/i3blocks/i3-volume
+interval=1
+
+[internet]
+command=.config/i3blocks/i3-internet
+interval=1
+
+[date]
+command=.config/i3blocks/i3-date
+interval=60
+align=left
+
+
+
+[clock]
+command=.config/i3blocks/i3-clock
+interval=60
+align=left
+
+
