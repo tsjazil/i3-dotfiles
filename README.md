@@ -1,5 +1,6 @@
 ## ⚡ Dotfiles
 
+![i3](https://raw.githubusercontent.com/tsjazil/dotfiles/master/gallery/i3blocks.png)
 ![my-setup](https://raw.githubusercontent.com/tsjazil/dotfiles/master/gallery/navytheme.png)
 ---
 * [i3](https://github.com/i3/i3)
