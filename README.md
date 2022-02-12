@@ -1,7 +1,7 @@
 ## ⚡ Dotfiles
 
-![i3](https://raw.githubusercontent.com/tsjazil/dotfiles/master/gallery/i3blocks.png)
-![my-setup](https://raw.githubusercontent.com/tsjazil/dotfiles/master/gallery/navytheme.png)
+![i3](https://github.com/tsjazil/i3-dotfiles/blob/master/gallery/i3blocks.png)
+![my-setup](https://raw.githubusercontent.com/tsjazil/i3-dotfiles/master/gallery/navytheme.png)
 ---
 * [i3](https://github.com/i3/i3)
 * [i3 gaps](https://github.com/Airblader/i3)
